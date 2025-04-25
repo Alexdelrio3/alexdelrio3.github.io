@@ -1,0 +1,17 @@
+---
+title: "Recursos para investigadores"
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+# Recursos que uso y recomiendo
+
+- Guías para análisis de OpenAlex
+- Código para análisis bibliométrico en R
+- Plantillas para informes reproducibles
+- Encuestas sobre malas prácticas investigadoras
+- Análisis de discursos en Twitter e Instagram
+
+Pronto compartiré todo en formato `.zip` y `.Rmd`.
+
