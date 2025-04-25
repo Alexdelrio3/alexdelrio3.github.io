@@ -2109,8 +2109,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  /* Tipografía y color base */
+  body {
+    font-family: 'Georgia', serif;
+    color: #2e2e2e;
+    background-color: #fcfcfc;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3 {
+    color: #2a4d69;
+  }
+
+  /* Navbar */
+  .navbar {
+    background-color: #f5f5f5;
+    border-bottom: 2px solid #e0e0e0;
+  }
+
+  /* Transición suave al hacer hover */
+  a {
+    transition: color 0.3s ease-in-out;
+  }
+
+  a:hover {
+    color: #f76c6c;
+  }
+
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="style.css" type="text/css"/>
 
 </head>
 
@@ -2133,7 +2163,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Inicio</a>
 <a href="about.html">Sobre mí</a>
-<a href="posts/index.html">Entradas</a>
+<a href="posts/index.html">Blog</a>
+<a href="proyectos/index.html">Proyectos</a>
+<a href="publicaciones/index.html">Publicaciones</a>
+<a href="recursos/index.html">Recursos</a>
+<a href="datos-abiertos/index.html">Datos abiertos</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
