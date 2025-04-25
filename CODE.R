@@ -1,7 +1,10 @@
+remove.packages("distill")
+remove.packages("rmarkdown")
 install.packages("distill")
 install.packages("rmarkdown")
 
 library(distill)
+library(rmarkdown)
 create_blog("alexdelrio3_blog", title = "Blog de investigación crítica")
 
 file.edit("about.Rmd")
