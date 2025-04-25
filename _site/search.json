@@ -5,15 +5,15 @@
       "title": "Sobre mí",
       "description": "Alex del Río – Investigador en ciencia ciudadana, participación juvenil y ética académica",
       "author": [],
-      "contents": "\r\nTrabajo en la intersección entre ciencia y política, buscando formas de producir conocimiento crítico y abierto. Este blog recoge mis proyectos, dudas metodológicas, hallazgos y reflexiones.\r\nContacto: alejandro.fernandez-rio@uv.es\r\nORCID: https://orcid.org/0000-0002-8163-830X\r\nGoogle Scholar: https://scholar.google.es/citations?user=OHaK64MAAAAJ&hl=es&oi=ao\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T10:52:15+02:00"
+      "contents": "\r\nTrabajo en la intersección entre ciencia y política, buscando formas de producir conocimiento crítico y abierto. Este blog recoge mis proyectos, dudas metodológicas, hallazgos y reflexiones.\r\n📧 Contacto: alejandro.fernandez-rio@uv.es\r\n📄 ORCID: https://orcid.org/0000-0002-8163-830X\r\n🔗 Google Scholar: https://scholar.google.es/citations?user=OHaK64MAAAAJ&hl=es&oi=ao\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-04-25T11:08:21+02:00"
     },
     {
       "path": "index.html",
       "title": "Blog de investigación crítica",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T10:52:27+02:00"
+      "last_modified": "2025-04-25T11:08:26+02:00"
     }
   ],
   "collections": ["posts/posts.json"]

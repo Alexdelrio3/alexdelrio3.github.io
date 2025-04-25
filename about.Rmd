@@ -1,11 +1,13 @@
 ---
 title: "Sobre mí"
 description: "Alex del Río – Investigador en ciencia ciudadana, participación juvenil y ética académica"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    css: style.css
 ---
 
 Trabajo en la intersección entre ciencia y política, buscando formas de producir conocimiento crítico y abierto. Este blog recoge mis proyectos, dudas metodológicas, hallazgos y reflexiones.
 
-Contacto: alejandro.fernandez-rio@uv.es  
-ORCID: https://orcid.org/0000-0002-8163-830X 
-Google Scholar: https://scholar.google.es/citations?user=OHaK64MAAAAJ&hl=es&oi=ao
+📧 Contacto: alejandro.fernandez-rio@uv.es  
+📄 ORCID: https://orcid.org/0000-0002-8163-830X 
+🔗 Google Scholar: https://scholar.google.es/citations?user=OHaK64MAAAAJ&hl=es&oi=ao
