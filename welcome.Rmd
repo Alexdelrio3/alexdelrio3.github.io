@@ -3,7 +3,7 @@ title: "Welcome to Blog de investigación crítica"
 description: "Una bitácora crítica sobre ciencia ciudadana, participación juvenil y los dilemas éticos de la investigación"
 author:
   - name: Alejandro F. del Río 
-    url: https://alexdelrio.com/alexdelrio
+    url: https://www.uv.es/inn4all/author/alejandro-fernandez-del-rio/
     affiliation: Universitat de Valencia
     affiliation_url: https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=aferdel3&idA=
 date: 04-25-2025
@@ -20,7 +20,6 @@ Trabajo en temas como:
 
 -   **Ciencia ciudadana**, especialmente en el ámbito biomédico: ¿Cómo se involucra realmente la ciudadanía en la producción científica?
 -   **Participación política de la juventud**, con énfasis en redes sociales y discursos digitales.
--   **Género y poder** en la ciencia y la política.
 -   **Malas prácticas investigadoras**, con foco en el contexto académico español.
 
 ## ¿Por qué un blog?

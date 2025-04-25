@@ -24,4 +24,8 @@ plot_ly(df, x = ~año, y = ~articulos, type = 'scatter', mode = 'lines+markers')
   layout(title = "Evolución de publicaciones por año")
 ```
 
+## Mapa interactivo de organizaciones
+
+<iframe src="mapa_final.html" width="100%" height="600px" frameborder="0"></iframe>
+
 Licencia: CC BY 4.0 – Puedes reutilizar estos datos con atribución.
