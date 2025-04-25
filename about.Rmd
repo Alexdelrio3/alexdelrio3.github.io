@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Alex del Río – Investigador pre-doctoral en ciencia ciudadana, participación juvenil y ética académica"
+description: "Alex del Río – Investigador pre-doctoral en ciencia ciudadana, participación juvenil e innovación social"
 output: 
   distill::distill_article:
     css: style.css
