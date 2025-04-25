@@ -1,0 +1,46 @@
+---
+title: "Welcome to Blog de investigación crítica"
+description: "Una bitácora crítica sobre ciencia ciudadana, participación juvenil y los dilemas éticos de la investigación"
+author:
+  - name: Alejandro F. del Río 
+    url: https://alexdelrio.com/alexdelrio
+    affiliation: Universitat de Valencia
+    affiliation_url: https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=aferdel3&idA=
+date: 04-25-2025
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+> *“Investigar no solo es producir conocimiento: es también una forma de intervenir en el mundo.”*
+
+Soy investigador académico, y en este espacio digital quiero compartir algo más que artículos y cifras: quiero compartir las **preguntas que me obsesionan**, los **hallazgos que me remueven** y los **procesos invisibles** detrás del trabajo científico.
+
+Trabajo en temas como:
+
+-   **Ciencia ciudadana**, especialmente en el ámbito biomédico: ¿Cómo se involucra realmente la ciudadanía en la producción científica?
+-   **Participación política de la juventud**, con énfasis en redes sociales y discursos digitales.
+-   **Género y poder** en la ciencia y la política.
+-   **Malas prácticas investigadoras**, con foco en el contexto académico español.
+
+## ¿Por qué un blog?
+
+Porque los datos necesitan ser contados, no solo analizados. Porque muchas veces lo más interesante de una investigación no entra en los papers: decisiones metodológicas, dilemas éticos, errores y reaprendizajes.
+
+Y porque quiero abrir mi trabajo a otras miradas: activistas, docentes, estudiantes, periodistas, instituciones, [ciudadan\@s](mailto:ciudadan@s){.email} [interesad\@s](mailto:interesad@s){.email} en pensar el mundo desde el conocimiento.
+
+## ¿Qué vas a encontrar aquí?
+
+-   **Entradas breves** donde explico lo que descubro y por qué importa.\
+-   **Reflexiones metodológicas** sobre cómo y desde dónde investigamos.\
+-   **Visualizaciones y datos abiertos**, cuando sea posible compartirlos.\
+-   **Conexiones con la actualidad**: ¿qué nos dice la ciencia sobre los temas que marcan agenda?
+
+------------------------------------------------------------------------
+
+Este blog no pretende ser un escaparate académico. Es más bien una **bitácora crítica** desde dentro de la investigación, con vocación de diálogo y apertura.
+
+Gracias por estar aquí.\
+Te invito a leer, comentar y, si te resuena algo, escribir.
+
+**Nos seguimos leyendo.**

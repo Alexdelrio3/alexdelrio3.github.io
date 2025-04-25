@@ -1,0 +1,13 @@
+name: "alexdelrio3.github.io"
+title: "Blog de investigación crítica"
+description: "Investigación participativa, ciencia ciudadana y política digital"
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre mí"
+      href: about.html
+    - text: "Posts"
+      href: posts/index.html
+output: distill::distill_article
