@@ -1,7 +1,7 @@
 name: "alexdelrio3.github.io"
 title: "Investigación crítica y participativa"
 description: "Bitácora de Alex del Río"
-output_dir: "_site"
+output_dir: "docs"
 base_url: "/alexdelrio3.github.io"
 navbar:
   right:
