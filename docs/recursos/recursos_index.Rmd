@@ -1,0 +1,16 @@
+---
+title: "Recursos para investigadores"
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+# Recursos que uso y recomiendo
+
+- Guías para análisis de OpenAlex
+- Código para análisis bibliométrico en R
+
+
+
+Pronto compartiré todo en formato `.zip` y `.Rmd`.
+

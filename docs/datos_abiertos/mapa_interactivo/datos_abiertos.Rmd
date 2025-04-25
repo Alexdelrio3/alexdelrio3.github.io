@@ -1,0 +1,31 @@
+---
+title: "Datos abiertos"
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+# Conjuntos de datos abiertos
+
+-   🔗 [Base de datos sobre ciencia ciudadana (2023)](link_próximo)
+-   🔗 [Encuesta malas prácticas España (2024)](link_próximo)
+-   🔗 [30k artículos biomédicos con MeSH](link_próximo)
+
+```{r, message=FALSE}
+library(plotly)
+
+# Simulación de datos
+df <- data.frame(
+  año = 2000:2024,
+  articulos = sample(50:200, 25, replace = TRUE)
+)
+
+plot_ly(df, x = ~año, y = ~articulos, type = 'scatter', mode = 'lines+markers') %>%
+  layout(title = "Evolución de publicaciones por año")
+```
+
+## Mapa interactivo de organizaciones
+
+<iframe src="mapa_final.html" width="100%" height="600px" frameborder="0"></iframe>
+
+Licencia: CC BY 4.0 – Puedes reutilizar estos datos con atribución.

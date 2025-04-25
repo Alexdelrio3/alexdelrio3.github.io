@@ -1,0 +1,9 @@
+---
+title: "Datos abiertos"
+description: "Entradas relacionadas con investigaciones realizadas"
+output: 
+  distill::distill_article:
+    css: style.css
+listing: posts
+date: "`r Sys.Date()`"  # La fecha actual se insertará automáticamente
+---
