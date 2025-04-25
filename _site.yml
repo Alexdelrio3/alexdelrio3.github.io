@@ -12,13 +12,13 @@ navbar:
     - text: "Blog"
       href: welcome.html
     - text: "Proyectos"
-      href: proyectos/proyectos_index.html
+      href: proyectos/
     - text: "Publicaciones"
-      href: publicaciones/publicaciones_index.html
+      href: publicaciones/
     - text: "Recursos"
-      href: recursos/recursos_index.html
+      href: recursos/
     - text: "Datos abiertos"
-      href: datos_abiertos/datos_abiertos.html
+      href: datos_abiertos/
 output: 
   distill::distill_article:
     css: style.css
