@@ -22,22 +22,16 @@ navbar:
 collections:
   proyectos:
     output: true
-    contents: 
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/proyectos/proyectos_index.Rmd"
+    contents: "proyectos/**/*.Rmd" # Búsqueda recursiva
   publicaciones:
     output: true
-    contents: 
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/publicaciones/publicaciones_index.Rmd"
+    contents: "publicaciones/**/*.Rmd" # Búsqueda recursiva
   recursos:
     output: true
-    contents:
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/recursos/recursos_index.Rmd"     
+    contents: "recursos/**/*.Rmd" # Búsqueda recursiva
   datos_abiertos:
     output: true
-    contents:
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/datos_abiertos/index.Rmd"
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/datos_abiertos/mapa_interactivo/datos_abiertos.Rmd"
-      - "C:/Users/aleja/Downloads/alexdelrio3.github.io/datos_abiertos/particpacion_pacientes/index.Rmd"
+    contents: "datos_abiertos/**/*.Rmd" # Búsqueda recursiva
 output:
   distill::distill_article:
     css: style.css

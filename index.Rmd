@@ -1,11 +1,13 @@
 ---
 title: "Bienvenida a mi blog"
 site: distill::distill_website
-listing: posts
+#listing: posts
 output: 
   distill::distill_article:
     css: style.css
 ---
+
+
 Este blog nace como una bitácora de investigación crítica, donde compartiré ideas, avances y reflexiones sobre ciencia ciudadana, participación política y ética investigadora.
 
 ### ¿Qué encontrarás aquí?
