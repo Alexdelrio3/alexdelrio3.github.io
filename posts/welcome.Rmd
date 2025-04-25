@@ -7,9 +7,9 @@ author:
     affiliation: Universitat de Valencia
     affiliation_url: https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=aferdel3&idA=
 date: 04-25-2025
-output:
+output: 
   distill::distill_article:
-    self_contained: false
+    css: style.css
 ---
 
 > *“Investigar no solo es producir conocimiento: es también una forma de intervenir en el mundo.”*

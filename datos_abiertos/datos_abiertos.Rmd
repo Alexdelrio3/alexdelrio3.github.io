@@ -7,9 +7,9 @@ output:
 
 # Conjuntos de datos abiertos
 
-- 🔗 [Base de datos sobre ciencia ciudadana (2023)](link_próximo)
-- 🔗 [Encuesta malas prácticas España (2024)](link_próximo)
-- 🔗 [30k artículos biomédicos con MeSH](link_próximo)
+-   🔗 [Base de datos sobre ciencia ciudadana (2023)](link_próximo)
+-   🔗 [Encuesta malas prácticas España (2024)](link_próximo)
+-   🔗 [30k artículos biomédicos con MeSH](link_próximo)
 
 ```{r, message=FALSE}
 library(plotly)
@@ -25,4 +25,3 @@ plot_ly(df, x = ~año, y = ~articulos, type = 'scatter', mode = 'lines+markers')
 ```
 
 Licencia: CC BY 4.0 – Puedes reutilizar estos datos con atribución.
-
