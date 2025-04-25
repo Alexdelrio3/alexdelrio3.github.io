@@ -6,42 +6,42 @@
       "description": "Alex del Río – Investigador pre-doctoral en ciencia ciudadana, participación juvenil e innovación social",
       "author": [],
       "contents": "\r\nTrabajo en la intersección entre ciencia y política, buscando formas de producir conocimiento crítico y abierto. Este blog recoge mis proyectos, dudas metodológicas, hallazgos y reflexiones.\r\n📧 Contacto: alejandro.fernandez-rio@uv.es\r\n📄 ORCID: https://orcid.org/0000-0002-8163-830X\r\n🔗 Google Scholar: https://scholar.google.es/citations?user=OHaK64MAAAAJ&hl=es&oi=ao\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:39+02:00"
+      "last_modified": "2025-04-25T18:44:50+02:00"
     },
     {
       "path": "datos_abiertos.html",
       "title": "Datos abiertos",
       "author": [],
       "contents": "\r\nConjuntos de datos abiertos\r\n🔗 Base de datos sobre ciencia ciudadana (2023)\r\n🔗 Encuesta malas prácticas España (2024)\r\n🔗 30k artículos biomédicos con MeSH\r\n\r\n\r\nlibrary(plotly)\r\n\r\n# Simulación de datos\r\ndf <- data.frame(\r\n  año = 2000:2024,\r\n  articulos = sample(50:200, 25, replace = TRUE)\r\n)\r\n\r\nplot_ly(df, x = ~año, y = ~articulos, type = 'scatter', mode = 'lines+markers') %>%\r\n  layout(title = \"Evolución de publicaciones por año\")\r\n\r\n\r\n\r\nMapa interactivo de organizaciones\r\n\r\n\r\nLicencia: CC BY 4.0 – Puedes reutilizar estos datos con atribución.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:40+02:00"
+      "last_modified": "2025-04-25T18:44:51+02:00"
     },
     {
       "path": "index.html",
       "title": "Bienvenida a mi blog",
       "author": [],
       "contents": "\r\nEste blog nace como una bitácora de investigación crítica, donde compartiré ideas, avances y reflexiones sobre ciencia ciudadana, participación política y ética investigadora.\r\n¿Qué encontrarás aquí?\r\nResultados preliminares de mis investigaciones\r\nAnálisis de datos abiertos y participación ciudadana\r\nReflexiones sobre ciencia abierta y buenas prácticas\r\nHerramientas y recursos útiles para investigadores\r\n¿Por qué ahora?\r\nTrabajo principalmente en entornos digitales y tengo todos mis proyectos, ideas y datos en formato electrónico. Me pareció lógico y necesario abrir este espacio para transparentar el proceso y conectar con otras personas interesadas en lo mismo.\r\nEste blog no busca ser una vitrina, sino un lugar para construir conocimiento de forma crítica y colectiva.\r\n¡Gracias por estar aquí!\r\nAlex del Río\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:41+02:00"
+      "last_modified": "2025-04-25T18:44:52+02:00"
     },
     {
       "path": "proyectos_index.html",
       "title": "Proyectos en curso",
       "author": [],
       "contents": "\r\nProyectos actuales\r\n🔹 YouMove\r\nParticipación política juvenil en redes sociales. Análisis de género, discurso y eficacia política.\r\n🔹 Ciencia ciudadana biomédica\r\nEstudio de cómo se involucra a ciudadanos en las distintas fases de la investigación científica. Clasificación de 30.000 artículos.\r\n🔹 Ética científica y retractaciones\r\nExploración de picos de retractaciones 2009-2010. Análisis de motivos, autores, instituciones y países.\r\nActualizado a: 2025-04-25\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:42+02:00"
+      "last_modified": "2025-04-25T18:44:53+02:00"
     },
     {
       "path": "publicaciones_index.html",
       "title": "Publicaciones",
       "author": [],
       "contents": "\r\nPublicaciones destacadas\r\n(Próximamente enlaces a publicaciones)\r\nArtículo sobre ciencia ciudadana en PubMed\r\nAnálisis de prácticas de retractación\r\nPublicación sobre métodos mixtos y OpenAlex\r\nBlog académico como método de diseminación\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:42+02:00"
+      "last_modified": "2025-04-25T18:44:54+02:00"
     },
     {
       "path": "recursos_index.html",
       "title": "Recursos para investigadores",
       "author": [],
       "contents": "\r\nRecursos que uso y recomiendo\r\nGuías para análisis de OpenAlex\r\nCódigo para análisis bibliométrico en R\r\nPronto compartiré todo en formato .zip y .Rmd.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:43+02:00"
+      "last_modified": "2025-04-25T18:44:54+02:00"
     },
     {
       "path": "welcome.html",
@@ -55,7 +55,7 @@
       ],
       "date": "04-25-2025",
       "contents": "\r\n\r\n“Investigar no solo es producir conocimiento: es también una forma de intervenir en el mundo.”\r\n\r\nSoy investigador académico, y en este espacio digital quiero compartir algo más que artículos y cifras: quiero compartir las preguntas que me obsesionan, los hallazgos que me remueven y los procesos invisibles detrás del trabajo científico.\r\nTrabajo en temas como:\r\nCiencia ciudadana, especialmente en el ámbito biomédico: ¿Cómo se involucra realmente la ciudadanía en la producción científica?\r\nParticipación política de la juventud, con énfasis en redes sociales y discursos digitales.\r\nMalas prácticas investigadoras, con foco en el contexto académico español.\r\n¿Por qué un blog?\r\nPorque los datos necesitan ser contados, no solo analizados. Porque muchas veces lo más interesante de una investigación no entra en los papers: decisiones metodológicas, dilemas éticos, errores y reaprendizajes.\r\nY porque quiero abrir mi trabajo a otras miradas: activistas, docentes, estudiantes, periodistas, instituciones, ciudadan@s interesad@s en pensar el mundo desde el conocimiento.\r\n¿Qué vas a encontrar aquí?\r\nEntradas breves donde explico lo que descubro y por qué importa.\r\nReflexiones metodológicas sobre cómo y desde dónde investigamos.\r\nVisualizaciones y datos abiertos, cuando sea posible compartirlos.\r\nConexiones con la actualidad: ¿qué nos dice la ciencia sobre los temas que marcan agenda?\r\nEste blog no pretende ser un escaparate académico. Es más bien una bitácora crítica desde dentro de la investigación, con vocación de diálogo y apertura.\r\nGracias por estar aquí.\r\nTe invito a leer, comentar y, si te resuena algo, escribir.\r\nNos seguimos leyendo.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-04-25T18:40:44+02:00"
+      "last_modified": "2025-04-25T18:44:55+02:00"
     }
   ],
   "collections": []
