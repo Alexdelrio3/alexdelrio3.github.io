@@ -3,23 +3,24 @@ title: "Investigación crítica y participativa"
 description: "Bitácora de Alex del Río"
 output_dir: "docs"
 base_url: "/alexdelrio3.github.io"
-collections:
-  proyectos:
-    output: true
-    type: "article"
-    contents: "proyectos/*.Rmd"
-  publicaciones:
-    output: true
-    type: "article"
-    contents: "publicaciones/*.Rmd"
-  recursos:
-    output: true
-    type: "article"
-    contents: "recursos/*.Rmd"
-  datos_abiertos:
-    output: true
-    type: "article"
-    contents: "datos_abiertos/*.Rmd"
+
+navbar:
+ right:
+  - text: "Inicio"
+    href: index.html
+  - text: "Sobre mí"
+    href: about.html
+  - text: "Blog"
+    href: welcome.html
+  - text: "Proyectos"
+    href: proyectos/
+  - text: "Publicaciones"
+    href: publicaciones/
+  - text: "Recursos"
+    href: recursos/
+  - text: "Datos abiertos"
+    href: datos_abiertos/
 output:
-  distill::distill_article:
-    css: style.css
+distill::distill_article:
+ css: style.css
+
