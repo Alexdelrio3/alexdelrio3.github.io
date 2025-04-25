@@ -1,5 +1,5 @@
 name: "alexdelrio3.github.io"
-title: "Investigación crítica y ciencia abierta"
+title: "Investigación crítica y participativa"
 description: "Bitácora de Alex del Río"
 output_dir: "_site"
 base_url: "/alexdelrio3.github.io"
@@ -10,15 +10,15 @@ navbar:
     - text: "Sobre mí"
       href: about.html
     - text: "Blog"
-      href: posts/welcome.html
+      href: welcome.html
     - text: "Proyectos"
-      href: proyectos/index.html
+      href: proyectos_index.html
     - text: "Publicaciones"
-      href: publicaciones/index.html
+      href: publicaciones_index.html
     - text: "Recursos"
-      href: recursos/index.html
+      href: recursos_index.html
     - text: "Datos abiertos"
-      href: datos_abiertos/datos_abiertos.html
+      href: datos_abiertos.html
 output: 
   distill::distill_article:
     css: style.css
